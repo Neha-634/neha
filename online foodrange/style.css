@@ -173,14 +173,14 @@ html{
 
 .list {
     background-color: black;
-    padding: 10px 140px 0px 140px;
+    padding: 10px 125px 0px 125px;
        overflow: hidden;
 }
 
 .list ul {
     display: flex;
     list-style: none;
-    gap: 37px;
+    gap: 30px;
 }
 
 .list a {
@@ -195,7 +195,7 @@ html{
 
 .browse {
     background-color: #e13318;
-    padding: 10px 30px 0px 50px;
+    padding: 10px 30px 0px 40px;
        overflow: hidden;
 }
 
