@@ -234,7 +234,7 @@ html{
 .badge{
 
     position:absolute;
-
+    left:0px;
     right:10px;
 
     top:20px;
